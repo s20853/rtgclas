@@ -3,3 +3,4 @@ pandas==2.0.0
 scikit_learn==1.2.2
 streamlit==1.22.0
 fastai==2.7.12
+ipywidgets==8.0.6
